@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex </h1>
-<h3 align="center">Welcome to my GitHub profile!  Vision : Organizational growth and add value to customers and business, 
-  I'm an aspiring data scientist with a passion for turning data into actionable insights. 
-  I believe that data has the power to drive informed decision-making and create positive impacts in various domains.</h3>
+<h2 align="center">Welcome to My GitHub Profile! </h2>
+
+<h3 align="center" My Vision: To empower organizational growth and deliver exceptional value to customers and businesses.
+
+As an aspiring data scientist, I am passionate about transforming data into actionable insights that drive informed decision-making. 
+
+I believe in the transformative power of data to create positive impacts across diverse domains, unlocking new opportunities and fostering innovation.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexvatti&label=Profile%20views&color=0e75b6&style=flat" alt="alexvatti" /> </p>
