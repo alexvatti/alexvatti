@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alex </h1>
 <h2 align="left">Welcome to My GitHub Profile! </h2>
 
-<h3 align="left" My Vision: To empower organizational growth and deliver exceptional value to customers and businesses.
+<h3 align="left" My Vision: To empower organizational growth and deliver exceptional value to customers and businesses.</h3>
 
-<br>
-As an aspiring data scientist, I am passionate about transforming data into actionable insights that drive informed decision-making. 
+
+<h3 align="left" As an aspiring data scientist, I am passionate about transforming data into actionable insights that drive informed decision-making. 
 I believe in the transformative power of data to create positive impacts across diverse domains, unlocking new opportunities and fostering innovation.</h3>
 
 
