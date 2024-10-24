@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex </h1>
-<h3 align="center">Welcome to my GitHub profile! I'm an aspiring data scientist with a passion for turning data into actionable insights. 
+<h3 align="center">Welcome to my GitHub profile!  Vision : Organizational growth and add value to customers and business, 
+  I'm an aspiring data scientist with a passion for turning data into actionable insights. 
   I believe that data has the power to drive informed decision-making and create positive impacts in various domains.</h3>
 
 
@@ -22,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexdatascientist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexdatascientist/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexdatascientist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexdatascientist/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
