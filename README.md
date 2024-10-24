@@ -11,7 +11,7 @@ I believe in the transformative power of data to create positive impacts across 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexvatti&label=Profile%20views&color=0e75b6&style=flat" alt="alexvatti" /> </p>
 
 
-- 💬 Ask me about **Python, Data Analysis and Machine Learning Algorithms**
+- 💬 Ask me about **Python, Pandas, SQL , Data Analysis, Machine Learning , Machine Learning **
 
 - 📫 How to reach me **alexvatti@gmail.com**
   
